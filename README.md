@@ -1,4 +1,5 @@
-
+## Screenshots
+![image](https://github.com/Aakash3279/Amazon-website/assets/88670860/773cbc9d-8541-496f-b84f-158e4668ee48)
 
 # Amazon Clone
 
@@ -29,7 +30,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://github.com/Akash3279/amazon-website.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -97,19 +98,12 @@ amazon-clone/
 └── README.md
 ```
 
-## Screenshots
-![Amazon Clone Screenshot](./assets/screenshot.png)
 
 ## Notes
 - This project is for educational purposes only and does not aim to replicate Amazon's functionality entirely.
 - The images and icons used in this project are for demonstration purposes.
 
 ## Author
-- **Your Name**
-- [Your GitHub Profile](https://github.com/your-username)
+- **Guru Aakash**
+- [Your GitHub Profile](https://github.com/Aakash3279)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-Be sure to replace `"Your Name"` and `"https://github.com/your-username"` with your actual name and GitHub profile link. You can also add a screenshot in the `assets` folder named `screenshot.png` to display in the README.
