@@ -1,16 +1,15 @@
-Here's a `README.md` file for the Amazon clone project:
 
-```markdown
+
 # Amazon Clone
 
 This is a simple Amazon clone project built using HTML, CSS, and JavaScript. The project mimics the basic structure and design of the Amazon website, including a navigation bar, product sliders, and various product categories.
 
 ## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [File Structure](#file-structure)
-- [Screenshots](#screenshots)
+- Features
+- Technologies Used
+- Getting Started
+- File Structure
+- Screenshots
 
 ## Features
 - **Navigation Bar**: Includes logo, search bar, language selection, account information, and cart.
