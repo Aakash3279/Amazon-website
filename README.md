@@ -21,7 +21,7 @@ This is a simple Amazon clone project built using HTML, CSS, and JavaScript. The
 - **Footer**: Contains Amazon logo and copyright information.
 
 ## Technologies Used
-- HTML
+- HTML5
 - CSS
 - JavaScript
 
